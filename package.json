@@ -6,8 +6,17 @@
     "watch": "concurrently \"tsc --watch\" \"tailwindcss -i ./input.css -o ./css/style.css --watch\"",
     "build": "concurrently \"tsc\" \"tailwindcss -i ./input.css -o ./css/style.css\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "typeeee",
+    "tailwindcss",
+    "typescript",
+    "tailwind typescript starter",
+    "tailwind typescript starter kit",
+    "HTML5",
+    "CSS3",
+    "Library"
+  ],
+  "author": "Sheraz Manzoor",
   "license": "ISC",
   "description": "",
   "devDependencies": {
